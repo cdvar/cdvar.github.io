@@ -1,1 +1,1 @@
-# cdvar.github.io
+# A compendium of CD molecules
