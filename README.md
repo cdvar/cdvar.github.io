@@ -1,1 +1,1 @@
-# A compendium of CD molecules
+# A Compendium of Genetic Variants of CD molecules
